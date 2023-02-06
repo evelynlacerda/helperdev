@@ -1,0 +1,21 @@
+:root {
+    --background-color: #ffffff;
+    --primary-color: #eeeeee;
+    --second-color: #252525;
+    --first-light-gray: #dddddd;
+    --second-light-gray: #cccccc;
+    --first-dark-gray: #303030;
+    --second-dark-gray: #202020;
+    --enphasis-color: #29ff00;
+
+    --font-dark: #252525;
+    --font-light: #ffffff;
+
+    --active-color: #29ff00;
+    --active-color-gray: ;
+
+    --box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+    --box-shadow-active: 0px 0px 10px rgba(35, 220, 0, 0.5);
+    --border: 1px solid #dddddd;
+    --border-radius: 2px;
+}
